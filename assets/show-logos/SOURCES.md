@@ -16,7 +16,7 @@ These assets are used only in the internal-review prototype. Replace them with F
 
 ## Approved-source fallbacks used in the prototype
 
-- MLB on FOX uses the FOX Saturday Baseball mark: https://en.wikipedia.org/wiki/File:Fox_Saturday_Baseball_Logo.png
+- MLB on FOX uses a transparent FOX Saturday Baseball property mark from PNG Arts (857×273); source and required attribution: https://www.pngarts.com/explore/343453
 - Big Noon Saturday uses the FOX Big Noon Kickoff companion-property mark: https://commons.wikimedia.org/wiki/File:CFB_19_logo_FOX_BIG_NOON_KICKOFF-2C-stkd.svg
 - Varney & Co. uses the transparent FOX Business parent-network mark because the publicly available exact show banner is opaque: https://commons.wikimedia.org/wiki/File:Fox_Business.svg
 
